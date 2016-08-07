@@ -217,16 +217,6 @@
     "lastName" : "lazar",
     "status" : "offline"
   },
-  "284fd818-741a-4097-bb46-8dda1f0db314" : {
-    "Created_at" : 1.470533814069048E9,
-    "Direct Messages" : "YES",
-    "I am Attending" : "YES",
-    "Platform" : "iOS",
-    "email" : "ariplatt@gmail.com",
-    "firstName" : "Ari",
-    "lastName" : "Platt",
-    "status" : "offline"
-  },
   "28mQ1s4NM6hnutOhVPuwcav0OHj1" : {
     "Created_at" : 1.468363831631235E9,
     "Direct Messages" : "YES",
@@ -2761,16 +2751,6 @@
     "lastName" : "Raab",
     "status" : "offline"
   },
-  "c52da106-7da4-4d65-96e1-6683cf0eff2f" : {
-    "Created_at" : 1.470512828910994E9,
-    "Direct Messages" : "YES",
-    "I am Attending" : "YES",
-    "Platform" : "iOS",
-    "email" : "max.Spitalnick@gmail.com ",
-    "firstName" : "max",
-    "lastName" : "Spitalnick ",
-    "status" : "offline"
-  },
   "c5398b33-a6ae-4145-ac22-708d115bdeba" : {
     "Created_at" : 1.467020573E9,
     "Direct Messages" : "YES",
@@ -3118,16 +3098,6 @@
     "firstName" : "Pragnesh",
     "lastName" : "Dixit",
     "status" : "online"
-  },
-  "f5f6374c-2199-484b-98e9-f8cdf9bf14e8" : {
-    "Created_at" : 1.470438539001863E9,
-    "Direct Messages" : "YES",
-    "I am Attending" : "YES",
-    "Platform" : "iOS",
-    "email" : "hirschhy@gmail.com",
-    "firstName" : "Yonaton ",
-    "lastName" : "hirschhorn ",
-    "status" : "offline"
   },
   "f64d962e-2395-4c7f-9507-99fafe256986" : {
     "Direct Messages" : "YES",
@@ -3679,7 +3649,7 @@
       "food_id_1" : "YES"
     },
     "lastName" : "Weinberg",
-    "status" : "offline"
+    "status" : "online"
   },
   "facebook:10205861738609331" : {
     "Direct Messages" : "YES",
@@ -4192,16 +4162,6 @@
     "lastName" : "Kessler",
     "status" : "online"
   },
-  "h4fo4lJmVdXtycNdQWAC7kvpj4f2" : {
-    "Created_at" : 1.470506302706026E9,
-    "Direct Messages" : "YES",
-    "I am Attending" : "YES",
-    "Platform" : "iOS",
-    "email" : "eddiemattout13@gmail.com",
-    "firstName" : "Eddie",
-    "lastName" : "Mattout",
-    "status" : "offline"
-  },
   "hMLZ19tlTtaEFoMH4Ls2NNZ8rL12" : {
     "Created_at" : 1.470164519E9,
     "Direct Messages" : "YES",
@@ -4435,17 +4395,6 @@
       "food_id_1" : "YES"
     },
     "lastName" : "Levine",
-    "status" : "offline"
-  },
-  "pMhGf4Z44mOEfuM1ZMDJVLGOHKE2" : {
-    "Created_at" : 1.470452539E9,
-    "Direct Messages" : "YES",
-    "I am Attending" : "YES",
-    "Platform" : "Android",
-    "badge" : "0",
-    "email" : "benjamin.boyd@gmail.com",
-    "firstName" : "Benjamin",
-    "lastName" : "Boyd",
     "status" : "offline"
   },
   "pd5aM9iulVftHNBDrD1apxB3yte2" : {
