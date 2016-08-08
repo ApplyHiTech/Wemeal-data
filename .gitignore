@@ -1,4 +1,5 @@
 #files with data
+data/*
 wemeal-export-user.json
 wemeal-export-meal.json
 wemeal-export-mealitems.json
