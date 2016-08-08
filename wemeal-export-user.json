@@ -1072,6 +1072,16 @@
     "lastName" : "Rubin",
     "status" : "offline"
   },
+  "84f84dce-f7b2-44b8-bfe3-e9830b24d6cd" : {
+    "Created_at" : 1.470635074127481E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "tina@wisdomwords.org",
+    "firstName" : "Tina",
+    "lastName" : "jenkins",
+    "status" : "offline"
+  },
   "8547dc60-0033-4bd3-9813-9c59dd8b1373" : {
     "Created_at" : 1.470326605573477E9,
     "Direct Messages" : "YES",
@@ -1402,6 +1412,16 @@
     "lastName" : "Defore",
     "status" : "offline"
   },
+  "DEEP3mxXzPMe2JmgkNS4swtPQ6u1" : {
+    "Created_at" : 1.470614549367884E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "beckhamlvr526@yahoo.com",
+    "firstName" : "Rebecca",
+    "lastName" : "Schwartz",
+    "status" : "offline"
+  },
   "DL65ZJft1NgdmyNdCPZWOBot4vs1" : {
     "Created_at" : 1.470227406278697E9,
     "Direct Messages" : "YES",
@@ -1623,6 +1643,19 @@
     "lastName" : "Epelbaum",
     "status" : "offline"
   },
+  "IHET6Z0ZxwM2tHncq6pSnYXgKVd2" : {
+    "Created_at" : 1.470583367110514E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "remster13@gmail.com",
+    "firstName" : "Remy",
+    "food_preference" : {
+      "food_id_1" : "YES"
+    },
+    "lastName" : "Neuhaus",
+    "status" : "offline"
+  },
   "JXi4Zs9NfqgfIB3qjSQVq6XTOQS2" : {
     "Created_at" : 1.470071812E9,
     "Direct Messages" : "YES",
@@ -1632,6 +1665,16 @@
     "email" : "sophs86@hotmail.com",
     "firstName" : "Sophie",
     "lastName" : "Golding",
+    "status" : "offline"
+  },
+  "JZN2FH4IgSdMxcKqRCgw3jjJ1v33" : {
+    "Created_at" : 1.470540028851443E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "davidbaruch14@gmail.com",
+    "firstName" : "David",
+    "lastName" : "Baruch",
     "status" : "offline"
   },
   "Jx6OvdTmz8bUbOxwEbBYUfVfbC13" : {
@@ -2358,13 +2401,14 @@
     "Direct Messages" : "YES",
     "I am Attending" : "YES",
     "Platform" : "iOS",
+    "badge" : "1",
     "email" : "ahuvaschwartz@gmail.com",
     "firstName" : "Ahuva",
     "food_preference" : {
       "food_id_1" : "YES"
     },
     "lastName" : "Schwartz",
-    "status" : "offline"
+    "status" : "online"
   },
   "ZbaOZHq0e8bbWfW8DaYRjBG9xjm2" : {
     "Created_at" : 1.470321692E9,
@@ -2895,6 +2939,17 @@
     "lastName" : "Strauss ",
     "status" : "offline"
   },
+  "d4390c2c-284e-420f-87af-2a36f5e52230" : {
+    "Created_at" : 1.470583543373383E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "badge" : "0",
+    "email" : "Elianna.platt@gmail.com",
+    "firstName" : "Elianna ",
+    "lastName" : "Platt",
+    "status" : "offline"
+  },
   "d4c58785-7c6b-4337-b445-9eaa36f94687" : {
     "Created_at" : 1.467807076296975E9,
     "Direct Messages" : "NO",
@@ -2987,7 +3042,7 @@
       "food_id_1" : "YES"
     },
     "lastName" : "Schwartz",
-    "status" : "online"
+    "status" : "offline"
   },
   "df065bd2-fbcc-4bfc-9346-b13c2c30965c" : {
     "Created_at" : 1.469669357284127E9,
@@ -4293,7 +4348,7 @@
       "food_id_1" : "YES"
     },
     "lastName" : "Erster",
-    "status" : "online"
+    "status" : "offline"
   },
   "lKg0UdX6Q5dJTTjlAT0mmiTT6693" : {
     "Created_at" : 1.470055784E9,
@@ -4397,6 +4452,16 @@
     "email" : "shalomisaacson@gmail.com",
     "firstName" : "Shalom",
     "lastName" : "Isaacson",
+    "status" : "online"
+  },
+  "oeupPZFf2fNv8EbIwJQm6ssQaeH2" : {
+    "Created_at" : 1.470616606838408E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "jamesappel@gmail.com",
+    "firstName" : "James",
+    "lastName" : "Appel",
     "status" : "online"
   },
   "omQu5WCzzDgKxxHlIF8lK7KNItw2" : {
@@ -4656,7 +4721,7 @@
     "email" : "nickysim101@gmail.com",
     "firstName" : "Eliana",
     "lastName" : "Myers",
-    "status" : "online"
+    "status" : "offline"
   },
   "ttMdJrKbpGYIEhSnkR4yOSmsmsu1" : {
     "Created_at" : 1.46826803953675E9,
@@ -4756,6 +4821,16 @@
       "food_id_1" : "YES"
     },
     "lastName" : "Cohen",
+    "status" : "offline"
+  },
+  "vYKUdqA4WZSD61JNMobygbj4Zor2" : {
+    "Created_at" : 1.470618590406134E9,
+    "Direct Messages" : "YES",
+    "I am Attending" : "YES",
+    "Platform" : "iOS",
+    "email" : "abelibman1@hotmail.com",
+    "firstName" : "Abe",
+    "lastName" : "Libman",
     "status" : "offline"
   },
   "vnQC5q1zDRRFu6X6knIlCHJr2El1" : {
